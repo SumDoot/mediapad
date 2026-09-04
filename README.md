@@ -16,3 +16,9 @@ I think it only works for windows 11 but that may be wrong, could probably be se
 
 I wrote and uploaded the program via Arduino IDE with <a href="https://github.com/earlephilhower/arduino-pico">Earle F. Philhower's pico core</a>.
 Maybe not the most efficient or cleanest code but it works
+
+There is also a rgb strip because why not? In my frame i have the LEDs placed behind thinner parts of the body so that it shines through and shows the symbol on a flat surface.
+
+Bellow is a poorly made paint schematic that matches the pinout in the code
+
+![alt text](https://github.com/SumDoot/mediapad/blob/main/AudioControllerLayout.png "Paint schematic")
